@@ -6,7 +6,7 @@ public class intReturntype2
 	{
 		double pi=3.143;
 		double result=pi*r*r;
-		return result;
+		return result; //we cannot write any statement after return statement.
 	}
 	public static void main(String[] args)
 	{
