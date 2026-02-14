@@ -1,7 +1,5 @@
 package com.java.parameters;
 
-import com.chethan.programs.InputParameters;
-
 public class inputParameters 
 {
 	void add(int a, int b)
