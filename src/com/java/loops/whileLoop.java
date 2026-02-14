@@ -1,4 +1,4 @@
-package com.chethan.programs;
+package com.java.loops;
 
 public class whileLoop 
 {

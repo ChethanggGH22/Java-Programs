@@ -1,4 +1,4 @@
-package com.chethan.programs;
+package com.java.increments;
 
 public class Increments 
 {
