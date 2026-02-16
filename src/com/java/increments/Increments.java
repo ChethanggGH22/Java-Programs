@@ -14,9 +14,9 @@ public class Increments
 //		int r1=a++;
 //		System.out.println(r1);
 //		System.out.println(a);
-//		int r2=b--;
-//		System.out.println(r2);
-//		System.out.println(b);
+		int r2=b--;
+		System.out.println(r2);
+		System.out.println(b);
 		
 	}
 
