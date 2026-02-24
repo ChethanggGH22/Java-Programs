@@ -4,8 +4,8 @@ class calculation
 {
 	static double area(int r)
 	{
-		final double pi=3.143;
-		double result=pi*r*r;
+		final double PI_VALUE=3.143;
+		double result=PI_VALUE*r*r;
 		return result;
 	}
 		
